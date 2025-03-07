@@ -70,11 +70,6 @@ ChromeDriver (compatible with your Chrome browser version)
 
 Selenium WebDriver dependencies (managed via pom.xml)
 
-How to Run the Automation Script
-
-Clone the repository:
-
-git clone https://github.com/yourusername/Website-Testing-Project.git
 
 Navigate to the project directory:
 
